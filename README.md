@@ -1,5 +1,5 @@
 # udacity-data-architect
-This is my submitted project for Data Architect course in Udacity.
+This is my submitted project for <a href="https://www.udacity.com/course/data-architect-nanodegree--nd038">Data Architect Nanodegree Program</a> in Udacity.
 Feel free to use as sample.
 
 ### project1:
